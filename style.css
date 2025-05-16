@@ -11,9 +11,6 @@
     --font-titulo: "Rakkas", serif;
 }
 
-/* código omitido */
-/* código omitido */
-
 /* Reset */
 * {
     margin: 0;
@@ -40,9 +37,6 @@ p {
 img {
     max-width: 90%;
 }
-
-/* código omitido */
-/* código omitido */
 
 /* Responsividade */
 @media (max-width: 768px) {
